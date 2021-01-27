@@ -1,6 +1,23 @@
-### Hi I'm Jack Song 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dislazy/count.svg" />
+</p>
+
+## About me
+
+I'm Jack Song
 
 
-Here are some ideas to get me started:
+## Things I am passionate about
 
-- 🌱 I’m currently learning ...
+- Android :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+
+
