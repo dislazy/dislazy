@@ -16,8 +16,9 @@ I'm Jack Song
 
 - Java :robot:
 - Open source :octocat:
+- Blog :octocat:
 
 ## Get in touch :coffee:
 
-
+blog: https://bosong.online
 
