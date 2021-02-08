@@ -19,6 +19,5 @@ I'm Jack Song
 - Blog :octocat:
 
 ## Get in touch :coffee:
-
 blog: https://bosong.online
 
