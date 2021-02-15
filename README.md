@@ -15,7 +15,9 @@ I'm Jack Song
 ## Things I am passionate about
 
 - Java :octocat:
+
 - Open Source :octocat:
+
 - Blog :octocat:
 
 ## Get in touch :coffee:
