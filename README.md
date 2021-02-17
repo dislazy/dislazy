@@ -20,6 +20,8 @@ I'm Jack Song
 
 - Blog :octocat:
 
+- Foot :octocat:
+
 ## Get in touch :coffee:
 
 blog: https://bosong.online
