@@ -14,15 +14,17 @@ I'm Jack Song
 
 ## Things I am passionate about
 
-- Java :octocat:
+- Java :tea:
 
 - Open Source :octocat:
 
-- Blog :octocat:
+- Blog :lemon:
 
-- Foot :octocat:
+- Foot :doughnut:
 
 ## Get in touch :coffee:
 
 
-blog: https://bosong.online
+blog: https://bosong.online :link:
+email: ssliunian@yeah.net :love_letter:
+
