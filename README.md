@@ -15,12 +15,13 @@ I'm Jack Song
 ## Things I am passionate about
 
 - Java :tea:
+- 
+- Golang 🐻
 
 - Open Source :octocat:
 
 - Blog :lemon:
 
-- Foot :doughnut:
 
 ## Get in touch :coffee:
 
