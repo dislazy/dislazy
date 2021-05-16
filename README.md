@@ -15,7 +15,7 @@ I'm Jack Song
 ## Things I am passionate about
 
 - Java :tea:
-- 
+
 - Golang 🐻
 
 - Open Source :octocat:
