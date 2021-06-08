@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/dislazy/dislazy/main/dino.gif" alt="Hello world">
+<img src="https://cdn.jsdelivr.net/gh/dislazy/dislazy@main/dino.gif" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
