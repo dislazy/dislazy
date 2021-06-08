@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Jack Song
+I'm Jack
 
 
 ## Things I am passionate about
@@ -20,13 +20,11 @@ I'm Jack Song
 
 - Open Source :octocat:
 
-- Blog :lemon:
-
 
 ## Get in touch :coffee:
 
 
 blog: https://bosong.online :link:
 
-email: ssliunian@yeah.net :love_letter:
+email: dialazy2021@outlook.com :love_letter:
 
