@@ -26,5 +26,5 @@ I'm Jack
 
 blog: https://bosong.online :link:
 
-email: songbo2021@outlook.com :love_letter:
+email: songbo@alidaodao.com :love_letter:
 
