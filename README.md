@@ -27,13 +27,11 @@
 <img src="https://komarev.com/ghpvc/?username=dislazy" alt="dislazy" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--140%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 401 Contributions in the Year 2022
+> 🏆 403 Contributions in the Year 2022
  > 
 > 📦 103.4 kB Used in GitHub's Storage 
  > 
@@ -46,9 +44,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    221 commits    ██████░░░░░░░░░░░░░░░░░░░   23.61% 
-🌆 Daytime    285 commits    ███████░░░░░░░░░░░░░░░░░░   30.45% 
-🌃 Evening    415 commits    ███████████░░░░░░░░░░░░░░   44.34% 
+🌞 Morning    221 commits    ██████░░░░░░░░░░░░░░░░░░░   23.56% 
+🌆 Daytime    287 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
+🌃 Evening    415 commits    ███████████░░░░░░░░░░░░░░   44.24% 
 🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 ```
@@ -71,7 +69,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/03/2022 07:13:30 UTC
+ Last Updated on 20/03/2022 20:16:54 UTC
 <!--END_SECTION:waka-->
 
 ---
