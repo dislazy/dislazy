@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/dislazy/count.svg" />
 </p>
 
-<h2 align="center">Hi there<img src="https://imagecdn.bosong.online/image/avatar.jpg" height="32" />, I'm Jack Song </h2>
+<h2 align="center">Hi there, I'm Jack Song </h2>
 <h3 align="center">A passionate backend developer from China</h3>
 
 ### ⚡️ A Few Quick Facts
