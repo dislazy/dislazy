@@ -25,13 +25,13 @@
 <img src="https://komarev.com/ghpvc/?username=dislazy" alt="dislazy" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--785%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 557 Contributions in the Year 2022
+> 🏆 627 Contributions in the Year 2022
  > 
-> 📦 105.0 kB Used in GitHub's Storage 
+> 📦 105.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,7 +40,7 @@
 > 🔑 25 Private Repositories  
  > 
 
- Last Updated on 05/04/2022 02:33:57 UTC
+ Last Updated on 06/04/2022 02:33:26 UTC
 <!--END_SECTION:waka-->
 
 ---
