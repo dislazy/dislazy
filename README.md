@@ -15,7 +15,7 @@
 <ul>
     <li> Java</li>
     <li> Golang</li>
-    <li> 📝 I regulary write articles on <a href="https://www.songbo.fun/">www.songbo.fun</a>.</li>
+    <li> <a href="https://www.songbo.fun/">www.songbo.fun</a></li>
     <li> Open Source</li>
     <li> mail: songbo@alidaodao.com</li>
 </ul>
