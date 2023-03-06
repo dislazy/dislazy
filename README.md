@@ -23,7 +23,3 @@
 ### 🌗 Development Breakdown
 
 <img src="https://komarev.com/ghpvc/?username=dislazy" alt="dislazy" />
-
-[![https://vercel.com/dmego/readme-stats](https://cdn.jsdelivr.net/gh/dmego/images/img/powered-by-vercel.svg)](https://vercel.com/dmego/readme-stats)
-
-
