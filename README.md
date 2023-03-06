@@ -19,6 +19,3 @@
     <li> Open Source</li>
     <li> mail: songbo2099@gmail.com</li>
 </ul>
-
-### 🌗 Development Breakdown
-
