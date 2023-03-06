@@ -2,10 +2,10 @@ name: change dislazy readme
 
 on:
   workflow_dispatch:
-  schedule:
+#   schedule:
       # Runs at 00:00AM UTC
-    - cron: "0 1 * * *"
-  push:
+#     - cron: "0 1 * * *"
+#   push:
 
 jobs:
   update-readme:
