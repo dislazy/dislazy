@@ -24,54 +24,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=dislazy" alt="dislazy" />
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2037%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 114.9 kB Used in GitHub's Storage 
- > 
-> 🏆 667 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 43 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1939 commits        ████████████░░░░░░░░░░░░░   47.44 % 
-🌆 Daytime                871 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-🌃 Evening                1133 commits        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-🌙 Night                  144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 27/02/2023 02:46:33 UTC
-<!--END_SECTION:waka-->
-
----
-
 [![https://vercel.com/dmego/readme-stats](https://cdn.jsdelivr.net/gh/dmego/images/img/powered-by-vercel.svg)](https://vercel.com/dmego/readme-stats)
 
 
