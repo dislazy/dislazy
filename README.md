@@ -15,7 +15,6 @@
 <ul>
     <li> Java</li>
     <li> Golang</li>
-    <li> <a href="https://www.songbo.fun/">www.songbo.fun</a></li>
     <li> Open Source</li>
     <li> mail: songbo2099@gmail.com</li>
 </ul>
