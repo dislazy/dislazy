@@ -16,5 +16,5 @@
     <li> Java</li>
     <li> Golang</li>
     <li> Open Source</li>
-    <li> mail: songbo2099@gmail.com</li>
+    <li> mail: ssliunian188@gmail.com</li>
 </ul>
